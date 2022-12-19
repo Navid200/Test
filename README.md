@@ -1,2 +1,4 @@
-# Test
+# Test  
+  
+{% include search-lunr.html %}  
  
